@@ -4,8 +4,8 @@
 # Sobre o projeto
 Criação de repositório pessoal para compartilhar os projetos e tecnologias que estou aprendendo durante minha transição de carreira para a área de tecnologia da informação.
 
-## Layout mobile
-CSS com media query para promover responsividade á página. 
+## Responsividade
+CSS com media query para max-width: 768px
 
 # Tecnologias utilizadas
 ## Front end
