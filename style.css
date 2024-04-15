@@ -335,6 +335,7 @@ p{
         display: flex;
         order: -1;
         align-items: center;
+        width: 70%;
     }
 
     .portfolio_conteudo, .formacao_conteudo{
