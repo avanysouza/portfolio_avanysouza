@@ -135,6 +135,7 @@ p{
     display: flex; 
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     gap: 50px;
     padding: 20px;
@@ -144,22 +145,34 @@ p{
 .portfolio_conteudo{
     margin-top: 30px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     gap: 60px;
     font-size: 14px;
     text-align: justify;
+    font-weight: bold;
 
 }
 
 .portfolio_item{
     display: flex;
     flex-direction: column;
+    align-items: center;
+}
+
+.portfolio_item a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     gap: 40px;
 }
 
+.portfolio_item .imagens_site{
+    width: 40%;
+}
+
 .imagens_site{
-    width: 100%;
+    width: 80%;
 }
 
 .imagens_site:hover{
