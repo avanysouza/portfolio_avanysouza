@@ -101,8 +101,9 @@ p{
 
 .titulo_secundario{
     font-weight: normal;
-    font-size: 16px;
+    font-size: 15px;
     text-align: justify;
+    line-height: 20px;
 }
 
 .redes_sociais{
